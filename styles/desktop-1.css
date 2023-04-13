@@ -1,0 +1,607 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 292.3rem;
+}.desktop-1-rvC {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #8f8681;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW {
+  width: 100%;
+  height: 340.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .ellipse-6-Kz8 {
+  width: 49.1rem;
+  height: 50.1rem;
+  position: absolute;
+  left: 154.6rem;
+  top: 117.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .ellipse-4-RnG {
+  width: 49.1rem;
+  height: 50.1rem;
+  position: absolute;
+  left: 172.9rem;
+  top: 85.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .ellipse-2-mLL {
+  width: 49.1rem;
+  height: 50.1rem;
+  position: absolute;
+  left: 181.1rem;
+  top: 117.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .ellipse-5-6dW {
+  width: 49.1rem;
+  height: 50.1rem;
+  position: absolute;
+  left: 181.1rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .group-25-FFW {
+  width: 206.4719rem;
+  height: 37.7723rem;
+  position: absolute;
+  left: 0;
+  top: 5.7rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .group-25-FFW .group-14-AtG {
+  margin-right: 31.406rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .group-25-FFW .group-14-AtG .group-8-7Hi {
+  margin-right: 30.8765rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .group-25-FFW .group-14-AtG .group-8-7Hi .group-4-s1z {
+  margin-right: 30.3826rem;
+  width: 60.8068rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .group-25-FFW .group-14-AtG .group-8-7Hi .group-4-s1z .group-16-ZJ8 {
+  width: 60.3393rem;
+  height: 37.7723rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .group-25-FFW .group-14-AtG .group-8-7Hi .group-4-s1z .group-16-ZJ8 .ellipse-3-u76 {
+  width: 55.6891rem;
+  height: 24.7371rem;
+  position: absolute;
+  left: 0;
+  top: 13.0351rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .group-25-FFW .group-14-AtG .group-8-7Hi .group-4-s1z .group-16-ZJ8 .group-3-Ev4 {
+  width: 55.6891rem;
+  height: 24.7371rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .group-25-FFW .group-14-AtG .group-8-7Hi .group-4-s1z .home-MDz {
+  width: 16.8rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 37.4068rem;
+  top: 15.2077rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .group-25-FFW .group-14-AtG .group-8-7Hi .about-zXr {
+  margin-bottom: 0.057rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .group-25-FFW .group-14-AtG .skillset-JYY {
+  margin-bottom: 0.057rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .group-25-FFW .blogs-DQc {
+  margin-bottom: 0.057rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY {
+  width: 116.3rem;
+  height: 36.4rem;
+  position: absolute;
+  left: 63.6rem;
+  top: 59.2rem;
+  text-align: center;
+  font-size: 7.5rem;
+  font-weight: 700;
+  line-height: 1.2102272542;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.4900000095);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY-sub-0 {
+  font-size: 7.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.4900000095);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY-sub-1 {
+  font-size: 7.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.4900000095);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY-sub-2 {
+  font-size: 7.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.4900000095);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY-sub-3 {
+  font-size: 7.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.4900000095);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY-sub-4 {
+  font-size: 7.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.4900000095);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY-sub-5 {
+  font-size: 7.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.4900000095);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY-sub-6 {
+  font-size: 7.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.4900000095);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY-sub-7 {
+  font-size: 7.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.4900000095);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY .hey-everyone-im-ayesha-fathima-student-programmer-designer-kQY-sub-8 {
+  font-size: 7.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.4900000095);
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .brow-removebg-preview-1-Tn8 {
+  width: 146.8966rem;
+  height: 153.3627rem;
+  position: absolute;
+  left: 182.6rem;
+  top: 34.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .hija-removebg-preview-1-aLx {
+  width: 78.1rem;
+  height: 115.3rem;
+  position: absolute;
+  left: 212.8rem;
+  top: 50.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .leaf-removebg-preview-1-6aC {
+  width: 96.4rem;
+  height: 171.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .ellipse-7-e5v {
+  width: 166.2rem;
+  height: 38.9rem;
+  position: absolute;
+  left: 39.5rem;
+  top: 195.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .ellipse-8-mwE {
+  width: 166.8rem;
+  height: 48rem;
+  position: absolute;
+  left: 34rem;
+  top: 227.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .im-a-student-currently-pursuing-my-btech-degree-in-artificial-intelligence-at-bs-abdur-rahman-crescent-institute-of-science-and-technology-uXe {
+  width: 124.7rem;
+  height: 29.1rem;
+  position: absolute;
+  left: 62rem;
+  top: 211rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #35291a;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .as-a-person-im-hardworking-optimistic-and-always-eager-to-learn-new-things-im-excited-to-explore-new-opportunities-and-challenges-and-look-forward-to-expanding-my-knowledge-and-skills-7tc {
+  width: 126.9rem;
+  height: 36.4rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 242.5rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #35291a;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .rectangle-1-YU8 {
+  width: 50.8rem;
+  height: 220rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 140rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 3rem;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .ellipse-10-S3i {
+  width: 44.2rem;
+  height: 25.7rem;
+  position: absolute;
+  left: 11.2rem;
+  top: 191.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .ellipse-14-MgU {
+  width: 44.2rem;
+  height: 25.7rem;
+  position: absolute;
+  left: 199.9rem;
+  top: 306.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .des2-removebg-preview-1-twJ {
+  width: 66.5rem;
+  height: 99.7rem;
+  position: absolute;
+  left: 224.2rem;
+  top: 233.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .ellipse-11-Dya {
+  width: 44.2rem;
+  height: 25.1rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 199rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .ellipse-12-mVJ {
+  width: 44.2rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 11.2rem;
+  top: 270.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .ellipse-13-73N {
+  width: 44.2rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 208.1rem;
+  top: 166.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+/* .desktop-1-rvC .auto-group-pvvq-KBW .fea-removebg-preview-1-eJC {
+  width: 72.4rem;
+  height: 118.4rem;
+  position: absolute;
+  left: 0;
+  top: 167.6rem;
+  object-fit: cover;
+  vertical-align: top;
+} */
+.desktop-1-rvC .auto-group-pvvq-KBW .aye1-removebg-preview-1-NEC {
+  width: 147.5rem;
+  height: 262.2rem;
+  position: relative;
+  left: 0;
+  top: 71.4rem;
+  background-size: 120.954% 123.123%;
+  background-position: -17.8639rem 0;
+  background-image: url('../assets/aye1-removebg-preview-1.png');
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .fea-removebg-preview-1-eJC {
+  width: 72.4rem;
+  height: 118.4rem;
+  position: absolute;
+  left: 0;
+  top: 167.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .about-me-fDJ {
+  width: 34.2rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 104.05rem;
+  top: 194.3rem;
+  text-align: center;
+  font-size: 7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .vector-wwW {
+  width: 18.9383rem;
+  height: 18.9805rem;
+  position: absolute;
+  left: 278.015rem;
+  top: 255.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-pvvq-KBW .vector-saG {
+  width: 18.9383rem;
+  height: 18.9805rem;
+  position: absolute;
+  left: 284.6149rem;
+  top: 261.7249rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-cazn-1Ra {
+  width: 244.2rem;
+  height: 168.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-rvC .auto-group-cazn-1Ra .ellipse-17-YRW {
+  width: 155.1rem;
+  height: 25.6rem;
+  position: absolute;
+  left: 45.7rem;
+  top: 44.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-cazn-1Ra .ellipse-19-Ua4 {
+  width: 155.1rem;
+  height: 25.6rem;
+  position: absolute;
+  left: 28.7rem;
+  top: 78.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-cazn-1Ra .ellipse-18-jF6 {
+  width: 122.1rem;
+  height: 25.1rem;
+  position: absolute;
+  left: 77.8rem;
+  top: 116.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-cazn-1Ra .skill-icons-python-dark-Fz8 {
+  width: 25.6rem;
+  height: 25.6rem;
+  position: absolute;
+  left: 50.2rem;
+  top: 44.9rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-rvC .auto-group-cazn-1Ra .skill-icons-python-dark-Fz8 .group-P4k {
+  margin-right: 15.1rem;
+  width: 25.6rem;
+  height: 25.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-rvC .auto-group-cazn-1Ra .skill-icons-python-dark-Fz8 .group-iMv {
+  width: 25.6rem;
+  height: 25.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-rvC .auto-group-cazn-1Ra .fin4-removebg-preview-1-fY4 {
+  width: 45.5rem;
+  height: 168.8rem;
+  position: absolute;
+  left: -300px;;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-cazn-1Ra .my-skills-zaL {
+  width: 31rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 103.6rem;
+  top: 21rem;
+  text-align: center;
+  font-size: 7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-rvC .auto-group-cazn-1Ra .ml-1-J5E {
+  width: 32.5rem;
+  height: 28.8rem;
+  position: relative;
+  left: 167.4rem;
+  top: 76.8rem;
+  background-size: 156.261% 190.568%;
+  background-position: -9.8522rem -5.4884rem;
+  background-image: url('../assets/ml-1.png');
+  border-radius: 3rem;
+}
+.desktop-1-rvC .auto-group-cazn-1Ra .python-ZWx {
+  width: 23.4rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 83.3rem;
+  top: 51.3rem;
+  font-size: 7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #35291a;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-rvC .auto-group-cazn-1Ra .machine-learning-5EQ {
+  width: 56.5rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 106.3rem;
+  top: 84.4rem;
+  font-size: 7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #35291a;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-rvC .auto-group-cazn-1Ra .image-2-awr {
+  width: 30rem;
+  height: 30rem;
+  position: absolute;
+  left: 50.1rem;
+  top: 116.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-rvC .auto-group-cazn-1Ra .data-analytics-iHN {
+  width: 47.6rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 77rem;
+  top: 123.3rem;
+  font-size: 7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #35291a;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-rvC .auto-group-cazn-1Ra .le5-removebg-preview-1-2J4 {
+  width: 54.5rem;
+  height: 95.4rem;
+  position: absolute;
+  left: 215.8rem;
+  top: 30.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
